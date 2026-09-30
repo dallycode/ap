@@ -20,8 +20,8 @@
         }
 
         header {
-            background: #5b5ce2;
-            color: white;
+            background: #4D9AD1 ;
+            color: blue;
             padding: 25px 8%;
             display: flex;
             justify-content: space-between;
@@ -67,7 +67,7 @@
             background: white;
             padding: 22px;
             border-radius: 15px;
-            box-shadow: 0 4px 15px rgba(0,0,0,0.08);
+            box-shadow: 0 4px 15px rgba(0,0,0,0.0.8);
         }
 
         .stat-card h3 {
@@ -161,7 +161,7 @@
     <main class="container">
 
         <section class="welcome">
-            <h2>Welcome back 👋</h2>
+            <h2>Welcome back </h2>
             <p>Keep track of your AP subjects and stay consistent.</p>
         </section>
 
@@ -169,7 +169,7 @@
 
             <div class="stat-card">
                 <h3>Study Streak</h3>
-                <p id="streak">7 days 🔥</p>
+                <p id="streak">7 days </p>
             </div>
 
             <div class="stat-card">
